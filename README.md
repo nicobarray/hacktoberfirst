@@ -1,5 +1,6 @@
 [![Dependency Review](https://github.com/KOSASIH/hacktoberfirst/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/KOSASIH/hacktoberfirst/actions/workflows/dependency-review.yml)
 [![CodeQL](https://github.com/KOSASIH/hacktoberfirst/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/hacktoberfirst/actions/workflows/codeql-analysis.yml)
+[![Jekyll site CI](https://github.com/KOSASIH/hacktoberfirst/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/KOSASIH/hacktoberfirst/actions/workflows/jekyll-docker.yml)
 
 # Hacktoberfirst
 
