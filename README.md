@@ -1,3 +1,5 @@
+
+[![CodeQL](https://github.com/KOSASIH/hacktoberfirst/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/KOSASIH/hacktoberfirst/actions/workflows/codeql-analysis.yml)
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
